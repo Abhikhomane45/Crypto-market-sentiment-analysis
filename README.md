@@ -2,7 +2,6 @@
 
 ---
 
-# 📊 Fear & Greed Trading Analysis
 
 ## 📌 Project Overview
 
