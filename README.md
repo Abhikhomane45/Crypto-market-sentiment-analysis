@@ -104,7 +104,8 @@ fear-greed-trading-analysis/
 
 ## 👤 Author
 
-**Abhijeet Khomane**
+**Abhijeet NandKumar Khomane**
+** BTECH ECE**
 
 ---
 
